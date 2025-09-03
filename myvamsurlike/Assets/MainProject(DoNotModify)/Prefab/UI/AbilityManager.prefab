@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2562234767850498090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1251740284591705975}
+  - component: {fileID: 8281944013283521916}
+  m_Layer: 0
+  m_Name: AbilityManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1251740284591705975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2562234767850498090}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8281944013283521916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2562234767850498090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a3bb4f7042a1ad4fa56661fff4f509c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  abilitySelectionPanel: {fileID: 0}
+  abilities:
+  - abilityName: A
+    description: atk + 10
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 10
+  - abilityName: B
+    description: atk + 20
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 20
+  - abilityName: C
+    description: atk + 30
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 30
+  - abilityName: D
+    description: atk + 40
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 30
+  - abilityName: E
+    description: atk + 50
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 30
+  - abilityName: F
+    description: atk + 50
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 30
+  - abilityName: G
+    description: atk + 60
+    icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    power: 30
+  abilityCardContainer: {fileID: 0}
+  abilityCardPrefab: {fileID: 0}
