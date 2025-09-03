@@ -17,7 +17,7 @@ Each project is organized into its own folder and can be opened directly in Unit
 - Placeable towers with upgrade mechanics
 - Resource management and stage progression
 
-### 🔹 Snake-like (Stage-based)
+### 🔹 vamsur-like (Stage-based)
 - Stage-based progression system (not endless)
 - Randomized item spawning
 - Increasing difficulty with clear objectives per stage
