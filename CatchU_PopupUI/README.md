@@ -73,7 +73,6 @@ RewardPopup (CanvasGroup + RewardPopup.cs + AudioSource)
 | 닫기 애니메이션         | 0.12    | 스케일 1.0→0.92 + 알파 0.6→0 |
 
 **레전더리/Epic**  
-- 샤인 스윕 1회(0.25초)  
 - Epic: 보더 반짝임/파티클  
 - Legendary: 골드 라인 컷인+스타버스트 파티클  
 
