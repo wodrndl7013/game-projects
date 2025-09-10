@@ -27,6 +27,13 @@ Each project is organized into its own folder and can be opened directly in Unit
 - Chain reactions and score bonuses
 - Simple, intuitive gameplay loop
 
+### 🔹 CatchU Gacha Popup UI  
+Gacha reward popup UI implemented in Unity  
+State machine–based flow (Idle → Rolling → Reveal → Closing)  
+Smooth popup animations and fade effects  
+Epic/Legendary rarity styles with shine/particle effects  
+Skip and 10-roll support for fast testing  
+
 ---
 
 ## 🛠 How to Run
